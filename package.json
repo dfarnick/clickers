@@ -2,7 +2,7 @@
   "name": "clickers",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/dfarnick/clickers",
+  "homepage": "https://dfarnick.github.io/clickers",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.5",
